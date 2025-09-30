@@ -27,13 +27,17 @@ body
     border-radius: 4px;
     color: #fff;
 }
--c1
+.c1
 {
-    background: #22384a;
+    background: #76a1c5;
 
 }
 .c2
 {
     background: #12b39a;
 
+}
+.c3
+{
+    background: #ef0b0b;
 }
